@@ -7,6 +7,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install OpenAI'
 ```bash
 pip install gym
 ```
+Install pickle library 
+```
+pip install pickle-mixin
+```
 ## Dependencies
 * numpy
 * matplotlib
