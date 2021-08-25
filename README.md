@@ -26,4 +26,7 @@ Learned weights of complete first layer to first node of second layer<br/>
 ![2](https://github.com/mstale007/Pong_Reinforcememnt_Learning_Policy_Gradients/blob/master/2.png)
 ![3](https://github.com/mstale007/Pong_Reinforcememnt_Learning_Policy_Gradients/blob/master/3.png)
 ## Credits
-The credits for this code go to [Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/) and his famous blog post.I've merely created a wrapper to get people started.
+The credits for this code go to [Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/) and his famous blog post.I've merely created a wrapper to get people started and explore this domain.
+
+## What's Next?
+I have went ahead and made a two playered Pong Game where both players are AI that are learning by playing with each other.. Do check it out [here](https://github.com/mstale007/Two_Playered_Pong_Using_Policy_Gradients)!
